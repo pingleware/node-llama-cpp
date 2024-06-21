@@ -30,3 +30,5 @@ node_modules
 /llama/xpack/xpacks
 /llama/xpack/cmakeInstall.lock
 /llamaBins
+
+package-lock.json
